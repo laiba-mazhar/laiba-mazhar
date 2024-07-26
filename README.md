@@ -9,7 +9,7 @@
 <p align="center">
   🌱 I’m currently learning <strong>Operating System Design, Data Analysis & Visualization, Data Warehousing & Business Intelligence</strong><br>
   👨‍💻 All of my projects are available on my <a href="https://github.com/laiba-mazhar" target="_blank">GitHub</a><br>
-  📫 Reach me at: <a href="mailto:laibamazhar.000@gmail.com">laibamazhar.000@gmail.com</a>
+  📫 You can mail me directly at laibamazhar.000@gmail.com<br>
 </p>
 
 <h3 align="center">Connect with Me 🌐:</h3>
