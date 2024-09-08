@@ -2,8 +2,9 @@
 <h2 align="center">Data Science Enthusiast & Learner 🌟</h2>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg?w=740&t=st=1721948460~exp=1721949060~hmac=5b09a9b6fca5d66cd2ba68f1e3eaf86c41916a64d8e055f5c863f06266d4fd60" alt="Coding" width="300"/>
+  <img src="https://img.freepik.com/premium-vector/girl-with-glasses-is-looking-laptop_9493-63469.jpg?w=2000" alt="Coding" width="300"/>
 </p>
+
 
 <h3 align="center">About Me 📝</h3>
 <p align="center">
