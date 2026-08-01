@@ -1,0 +1,73 @@
+name: Build profile assets
+
+on:
+  schedule:
+    # every day at 02:00 UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # ── 1. contribution snake ──────────────────────────────────────────
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-light
+            dist/snake-dark.svg?palette=github-dark
+
+      # ── 2. activity graph, patched to loop forever ─────────────────────
+      # The upstream SVG animates once (`forwards`) and then stops, so the
+      # draw-in is already over by the time a visitor scrolls down to it.
+      # Re-point both animations at the same 5s duration and make them
+      # infinite, so the chart keeps redrawing.
+      - name: Generate looping activity graph
+        env:
+          GRAPH_QUERY: >-
+            username=${{ github.repository_owner }}&bg_color=0D1117&color=00D9FF&line=F0B429&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=false&border_color=1F6FEB&custom_title=Contribution%20Activity
+        run: |
+          set -euo pipefail
+          mkdir -p dist
+          curl -fsS --retry 3 --retry-delay 5 --max-time 60 \
+            "https://github-readme-activity-graph.vercel.app/graph?${GRAPH_QUERY}" \
+            -o dist/activity-graph.svg
+
+          python3 - <<'PY'
+          import pathlib, re, sys
+
+          p = pathlib.Path("dist/activity-graph.svg")
+          svg = p.read_text(encoding="utf-8")
+
+          subs = [
+              ("animation: dash 5s ease-in-out forwards;",
+               "animation: dash 5s ease-in-out infinite;"),
+              ("animation: blink 1s ease-in-out forwards;",
+               "animation: blink 5s ease-in-out infinite;"),
+          ]
+
+          for old, new in subs:
+              if old not in svg:
+                  sys.exit(f"upstream SVG changed - could not find: {old!r}")
+              svg = svg.replace(old, new)
+
+          p.write_text(svg, encoding="utf-8")
+          print("patched activity-graph.svg to loop")
+          PY
+
+      # ── 3. publish everything to the `output` branch ───────────────────
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
