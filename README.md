@@ -266,15 +266,15 @@ timeline
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=laiba-mazhar&bg_color=0D1117&color=00D9FF&line=F0B429&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=false&border_color=1F6FEB&custom_title=Contribution%20Activity"/>
+<!-- Self-hosted copy, regenerated daily by .github/workflows/snake.yml with its
+     dash/blink animations patched to loop instead of running once. -->
+<img width="98%" src="https://raw.githubusercontent.com/laiba-mazhar/laiba-mazhar/output/activity-graph.svg" alt="contribution activity"/>
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:00D9FF,100:F0B429&height=4"/>
 
-<!-- ══════════════════ SNAKE ══════════════════
-     Re-enable this block once .github/workflows/snake.yml has run at least
-     once and pushed snake.svg / snake-dark.svg to the `output` branch.
+<!-- ══════════════════ SNAKE ══════════════════ -->
 
 <div align="center">
 
@@ -289,8 +289,6 @@ timeline
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:00D9FF,100:F0B429&height=4"/>
-
-══════════════════════════════════════════════════ -->
 
 <!-- ══════════════════ ACHIEVEMENTS ══════════════════ -->
 
