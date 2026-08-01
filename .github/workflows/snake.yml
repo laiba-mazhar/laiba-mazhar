@@ -36,7 +36,10 @@ jobs:
             username=${{ github.repository_owner }}&bg_color=0D1117&color=00D9FF&line=F0B429&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=false&border_color=1F6FEB&custom_title=Contribution%20Activity
         run: |
           set -euo pipefail
+          # Platane/snk is a Docker action and creates dist/ as root, so the
+          # runner user cannot write into it without taking ownership first.
           mkdir -p dist
+          sudo chown -R "$(id -u):$(id -g)" dist
           curl -fsS --retry 3 --retry-delay 5 --max-time 60 \
             "https://github-readme-activity-graph.vercel.app/graph?${GRAPH_QUERY}" \
             -o dist/activity-graph.svg
