@@ -60,6 +60,7 @@ class LaibaMazhar:
 - 🤖 &nbsp;**Building** production RAG pipelines, autonomous agents, and end-to-end ML services
 - 🏗️ &nbsp;**Engineering** batch & real-time data platforms with Spark, Kafka and Airflow
 - 🎨 &nbsp;**Founder & artist** at **Rangrayze**, an art gallery for Sufi-inspired calligraphy and canvas work
+- 🌱 &nbsp;**Founder** of **airRTH**, a community climate initiative running sustainability campaigns and environmental programs
 - 🏆 &nbsp;**Winner** — Big Data Quest Hackathon, DataFest / NaSCon
 - 🎓 &nbsp;Stanford University *Machine Learning* (Coursera, Andrew Ng)
 - 🗣️ &nbsp;English (fluent) · Urdu (native) · German & Arabic (basic)
@@ -247,6 +248,7 @@ timeline
     2026 : Data Developer & Analyst — CloudWorks, Texas USA (remote, part-time)
          : Database Manager — Al Muttaqeen Institute
          : Founder & Artist — Rangrayze (Sufi calligraphy & canvas art)
+         : Founder — airRTH (community climate initiative)
          : Graduating — BS Data Science
 ```
 
