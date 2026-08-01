@@ -59,7 +59,7 @@ class LaibaMazhar:
 - 🔬 &nbsp;**Researching** adversarial robustness in federated learning, explainable IDS, and hallucination mitigation in multi-agent LLM systems
 - 🤖 &nbsp;**Building** production RAG pipelines, autonomous agents, and end-to-end ML services
 - 🏗️ &nbsp;**Engineering** batch & real-time data platforms with Spark, Kafka and Airflow
-- 🎨 &nbsp;**Founder & artist** at **Rangrayze**, an art gallery for Sufi-inspired calligraphy and canvas work
+- 🎨 &nbsp;**Founder & artist** at **[Rangrayze](https://www.instagram.com/rangrayze)**, an art gallery for Sufi-inspired calligraphy and canvas work &nbsp;<a href="https://www.instagram.com/rangrayze"><img src="https://img.shields.io/badge/@rangrayze-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0D1117" alt="Rangrayze on Instagram"/></a>
 - 🌱 &nbsp;**Founder** of **airRTH**, a community climate initiative running sustainability campaigns and environmental programs
 - 🏆 &nbsp;**Winner** — Big Data Quest Hackathon, DataFest / NaSCon
 - 🎓 &nbsp;Stanford University *Machine Learning* (Coursera, Andrew Ng)
@@ -247,7 +247,7 @@ timeline
          : Research — federated learning, XAI, LLM agents
     2026 : Data Developer & Analyst — CloudWorks, Texas USA (remote, part-time)
          : Database Manager — Al Muttaqeen Institute
-         : Founder & Artist — Rangrayze (Sufi calligraphy & canvas art)
+         : Founder & Artist — Rangrayze (Sufi calligraphy & canvas art, @rangrayze)
          : Founder — airRTH (community climate initiative)
          : Graduating — BS Data Science
 ```
