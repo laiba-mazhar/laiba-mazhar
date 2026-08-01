@@ -59,6 +59,7 @@ class LaibaMazhar:
 - 🔬 &nbsp;**Researching** adversarial robustness in federated learning, explainable IDS, and hallucination mitigation in multi-agent LLM systems
 - 🤖 &nbsp;**Building** production RAG pipelines, autonomous agents, and end-to-end ML services
 - 🏗️ &nbsp;**Engineering** batch & real-time data platforms with Spark, Kafka and Airflow
+- 🎨 &nbsp;**Founder & artist** at **Rangrayze**, an art gallery for Sufi-inspired calligraphy and canvas work
 - 🏆 &nbsp;**Winner** — Big Data Quest Hackathon, DataFest / NaSCon
 - 🎓 &nbsp;Stanford University *Machine Learning* (Coursera, Andrew Ng)
 - 🗣️ &nbsp;English (fluent) · Urdu (native) · German & Arabic (basic)
@@ -238,13 +239,14 @@ OCR + ML + NLP Flask app for author identification, sentiment and emotion analys
 timeline
     title Journey so far
     2022 : BS Data Science @ FAST-NUCES, Islamabad
-    2023 : Data & Operations Associate — Al Muttaqeen Institute
+    2023 : Head of Investigations — Baitulnoor
          : Donation Officer — Rah-e-Haq (NGO)
     2024 : Freelance AI / ML & Data Engineer — international clients
     2025 : Data Automation Engineer Intern — Tashi Technologies Corp
          : Research — federated learning, XAI, LLM agents
     2026 : Data Developer & Analyst — CloudWorks, Texas USA (remote, part-time)
          : Database Manager — Al Muttaqeen Institute
+         : Founder & Artist — Rangrayze (Sufi calligraphy & canvas art)
          : Graduating — BS Data Science
 ```
 
