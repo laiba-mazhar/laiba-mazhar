@@ -5,7 +5,7 @@
 
 <!-- ── Typing animation ── -->
 <a href="https://linkedin.com/in/laiba-mazhar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=00D9FF&center=true&vCenter=true&random=false&width=780&height=70&lines=Building+LLM+agents%2C+RAG+pipelines+%26+ML+systems;Researching+federated+learning+%26+adversarial+ML;Spark+%C2%B7+Kafka+%C2%B7+Airflow+%C2%B7+Databricks+%C2%B7+PyTorch;BS+Data+Science+%40+FAST-NUCES+%E2%80%A2+Class+of+2026" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=00D9FF&center=true&vCenter=true&random=false&width=780&height=70&lines=Data+Developer+%26+Analyst+%40+CloudWorks+(Texas%2C+remote);Building+LLM+agents%2C+RAG+pipelines+%26+ML+systems;Researching+federated+learning+%26+adversarial+ML;Spark+%C2%B7+Kafka+%C2%B7+Airflow+%C2%B7+Databricks+%C2%B7+PyTorch;BS+Data+Science+%40+FAST-NUCES+%E2%80%A2+Class+of+2026" alt="typing"/>
 </a>
 
 <br/>
@@ -14,8 +14,13 @@
 <a href="https://linkedin.com/in/laiba-mazhar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:laibamazhar.000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/laiba-mazhar?tab=repositories"><img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
-<img src="https://img.shields.io/badge/Islamabad,%20PK-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=0D1117" alt="Location"/>
+<img src="https://img.shields.io/badge/Lahore,%20PK-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=0D1117" alt="Location"/>
 <img src="https://komarev.com/ghpvc/?username=laiba-mazhar&style=for-the-badge&color=F0B429&label=PROFILE+VIEWS" alt="views"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CURRENTLY-Data%20Developer%20%26%20Analyst%20%40%20CloudWorks-F0B429?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Texas,%20USA-Remote%20%C2%B7%20Part--time-1F6FEB?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
@@ -27,9 +32,10 @@
 
 ```python
 class LaibaMazhar:
-    role      = "AI / ML Engineer · Data Scientist"
+    role      = "Data Developer & Analyst @ CloudWorks (Texas, USA · remote)"
+    also      = "AI / ML Engineer · Data Scientist · Researcher"
     education = "BS Data Science, FAST-NUCES ('22 → '26)"
-    based_in  = "Islamabad, Pakistan  🌍  open to remote"
+    based_in  = "Lahore, Pakistan  🌍  working remote"
 
     focus = [
         "LLM agents · RAG · prompt engineering",
@@ -46,9 +52,10 @@ class LaibaMazhar:
     }
 
     def currently(self) -> str:
-        return "Shipping agentic AI systems & writing the FYP 🚀"
+        return "Building data products at CloudWorks & writing the FYP 🚀"
 ```
 
+- 💼 &nbsp;**Currently** part-time **Data Developer & Analyst** at **CloudWorks** (Texas, USA — remote), building data pipelines, models and analytics
 - 🔬 &nbsp;**Researching** adversarial robustness in federated learning, explainable IDS, and hallucination mitigation in multi-agent LLM systems
 - 🤖 &nbsp;**Building** production RAG pipelines, autonomous agents, and end-to-end ML services
 - 🏗️ &nbsp;**Engineering** batch & real-time data platforms with Spark, Kafka and Airflow
@@ -236,7 +243,8 @@ timeline
     2024 : Freelance AI / ML & Data Engineer — international clients
     2025 : Data Automation Engineer Intern — Tashi Technologies Corp
          : Research — federated learning, XAI, LLM agents
-    2026 : Database Manager — Al Muttaqeen Institute
+    2026 : Data Developer & Analyst — CloudWorks, Texas USA (remote, part-time)
+         : Database Manager — Al Muttaqeen Institute
          : Graduating — BS Data Science
 ```
 
