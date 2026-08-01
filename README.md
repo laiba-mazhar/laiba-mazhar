@@ -266,7 +266,7 @@ timeline
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=laiba-mazhar&bg_color=0D1117&color=00D9FF&line=F0B429&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=false&border_color=1F6FEB&custom_title=Contribution%20Activity"/>
+<img width="98%" loading="lazy" src="https://github-readme-activity-graph.vercel.app/graph?username=laiba-mazhar&bg_color=0D1117&color=00D9FF&line=F0B429&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=false&border_color=1F6FEB&custom_title=Contribution%20Activity"/>
 
 </div>
 
