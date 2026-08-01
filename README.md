@@ -215,7 +215,9 @@ timeline
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/line.gif" width="100%"/>
 
-<!-- ══════════════════ SNAKE ══════════════════ -->
+<!-- ══════════════════ SNAKE ══════════════════
+     Re-enable this block once .github/workflows/snake.yml has run at
+     least once and pushed snake.svg / snake-dark.svg to the `output` branch.
 
 <div align="center">
 
@@ -230,6 +232,8 @@ timeline
 </div>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/line.gif" width="100%"/>
+
+══════════════════════════════════════════════════ -->
 
 <!-- ══════════════════ ACHIEVEMENTS ══════════════════ -->
 
