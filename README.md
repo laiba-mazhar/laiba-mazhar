@@ -19,7 +19,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/line.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:00D9FF,100:F0B429&height=4"/>
 
 <!-- ══════════════════ ABOUT ══════════════════ -->
 
@@ -57,7 +57,7 @@ class LaibaMazhar:
 - 🗣️ &nbsp;English (fluent) · Urdu (native) · German & Arabic (basic)
 - 📫 &nbsp;Reach me at **laibamazhar.000@gmail.com**
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/line.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:00D9FF,100:F0B429&height=4"/>
 
 <!-- ══════════════════ TECH STACK ══════════════════ -->
 
@@ -112,7 +112,7 @@ class LaibaMazhar:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/line.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:00D9FF,100:F0B429&height=4"/>
 
 <!-- ══════════════════ RESEARCH ══════════════════ -->
 
@@ -124,34 +124,86 @@ class LaibaMazhar:
 | **[Explainable Multiclass Intrusion Detection](https://github.com/laiba-mazhar/Explainable-XGBoost-Intrusion-Detection-RESEARCH_PAPER)** | XGBoost + TreeSHAP with a severity-scoring engine for SOC deployment (NSL-KDD, UNSW-NB15) | **99.90%** avg accuracy, **+12.28%** macro-F1 over a Random Forest baseline, **2.44×** stability gain over 5 seeds |
 | **LLM-Driven Autonomous Trading Agents** | Analyst → Critic → Decision pipeline on Llama-3.3-70B (Groq) for hallucination mitigation in financial reasoning | **80%** recommendation-adjustment rate and **HDR 1.0** across AAPL, MSFT, TSLA, GOOGL, AMZN |
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/line.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:00D9FF,100:F0B429&height=4"/>
 
 <!-- ══════════════════ PROJECTS ══════════════════ -->
 
 ## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="34"/> &nbsp;Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/laiba-mazhar/launchmind-laiba">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=laiba-mazhar&repo=launchmind-laiba&theme=react&bg_color=0D1117&title_color=00D9FF&icon_color=F0B429&text_color=C9D1D9&border_color=1F6FEB"/>
-</a>
-<a href="https://github.com/laiba-mazhar/academy-management-system">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=laiba-mazhar&repo=academy-management-system&theme=react&bg_color=0D1117&title_color=00D9FF&icon_color=F0B429&text_color=C9D1D9&border_color=1F6FEB"/>
-</a>
-<a href="https://github.com/laiba-mazhar/Explainable-XGBoost-Intrusion-Detection-RESEARCH_PAPER">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=laiba-mazhar&repo=Explainable-XGBoost-Intrusion-Detection-RESEARCH_PAPER&theme=react&bg_color=0D1117&title_color=00D9FF&icon_color=F0B429&text_color=C9D1D9&border_color=1F6FEB"/>
-</a>
-<a href="https://github.com/laiba-mazhar/ICS-Federated-Learning-Adversarial-Defense">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=laiba-mazhar&repo=ICS-Federated-Learning-Adversarial-Defense&theme=react&bg_color=0D1117&title_color=00D9FF&icon_color=F0B429&text_color=C9D1D9&border_color=1F6FEB"/>
-</a>
-<a href="https://github.com/laiba-mazhar/Transformer-English-Urdu-Machine-Translation">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=laiba-mazhar&repo=Transformer-English-Urdu-Machine-Translation&theme=react&bg_color=0D1117&title_color=00D9FF&icon_color=F0B429&text_color=C9D1D9&border_color=1F6FEB"/>
-</a>
-<a href="https://github.com/laiba-mazhar/AI-Based-Handwriting-Analysis-and-Author-Identification-WebApp">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=laiba-mazhar&repo=AI-Based-Handwriting-Analysis-and-Author-Identification-WebApp&theme=react&bg_color=0D1117&title_color=00D9FF&icon_color=F0B429&text_color=C9D1D9&border_color=1F6FEB"/>
-</a>
+### 🤖 [LaunchMind](https://github.com/laiba-mazhar/launchmind-laiba)
 
-</div>
+<img src="https://img.shields.io/github/languages/top/laiba-mazhar/launchmind-laiba?style=flat-square&labelColor=0D1117&color=00D9FF"/>
+<img src="https://img.shields.io/github/stars/laiba-mazhar/launchmind-laiba?style=flat-square&logo=github&labelColor=0D1117&color=F0B429"/>
+<img src="https://img.shields.io/github/last-commit/laiba-mazhar/launchmind-laiba?style=flat-square&labelColor=0D1117&color=1F6FEB"/>
+
+A multi-agent system that runs a micro-startup end to end — idea → GitHub PR → Slack launch post → cold outreach email, with no human in the loop.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [Maktab — Academy Management](https://github.com/laiba-mazhar/academy-management-system)
+
+<img src="https://img.shields.io/github/languages/top/laiba-mazhar/academy-management-system?style=flat-square&labelColor=0D1117&color=00D9FF"/>
+<img src="https://img.shields.io/github/stars/laiba-mazhar/academy-management-system?style=flat-square&logo=github&labelColor=0D1117&color=F0B429"/>
+<img src="https://img.shields.io/github/last-commit/laiba-mazhar/academy-management-system?style=flat-square&labelColor=0D1117&color=1F6FEB"/>
+
+Full-stack school platform: React + Vite + TypeScript on Supabase (Postgres/Auth/RLS) — students, staff, timetable, attendance, fees, exams and dashboards.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Explainable XGBoost IDS](https://github.com/laiba-mazhar/Explainable-XGBoost-Intrusion-Detection-RESEARCH_PAPER)
+
+<img src="https://img.shields.io/github/languages/top/laiba-mazhar/Explainable-XGBoost-Intrusion-Detection-RESEARCH_PAPER?style=flat-square&labelColor=0D1117&color=00D9FF"/>
+<img src="https://img.shields.io/github/stars/laiba-mazhar/Explainable-XGBoost-Intrusion-Detection-RESEARCH_PAPER?style=flat-square&logo=github&labelColor=0D1117&color=F0B429"/>
+<img src="https://img.shields.io/badge/paper-TeX-8C1515?style=flat-square&labelColor=0D1117"/>
+
+Robust, explainable multiclass intrusion detection with TreeSHAP, multi-seed evaluation and severity-aware alert scoring built for real SOC workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [ICS — Federated Learning Defense](https://github.com/laiba-mazhar/ICS-Federated-Learning-Adversarial-Defense)
+
+<img src="https://img.shields.io/github/languages/top/laiba-mazhar/ICS-Federated-Learning-Adversarial-Defense?style=flat-square&labelColor=0D1117&color=00D9FF"/>
+<img src="https://img.shields.io/github/stars/laiba-mazhar/ICS-Federated-Learning-Adversarial-Defense?style=flat-square&logo=github&labelColor=0D1117&color=F0B429"/>
+<img src="https://img.shields.io/badge/paper-TeX-8C1515?style=flat-square&labelColor=0D1117"/>
+
+Class-wise coherence scoring to detect and suppress adversarial data poisoning across distributed federated-learning clients.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [English → Urdu Translation](https://github.com/laiba-mazhar/Transformer-English-Urdu-Machine-Translation)
+
+<img src="https://img.shields.io/github/stars/laiba-mazhar/Transformer-English-Urdu-Machine-Translation?style=flat-square&logo=github&labelColor=0D1117&color=F0B429"/>
+<img src="https://img.shields.io/badge/Transformer-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/BLEU%20%2F%20ROUGE-00D9FF?style=flat-square&labelColor=0D1117"/>
+
+Transformer built from scratch vs. an LSTM/Bahdanau-attention seq2seq baseline on UMC005, with BPE tokenization and BLEU/ROUGE evaluation.
+
+</td>
+<td width="50%" valign="top">
+
+### ✍️ [Handwriting Analysis WebApp](https://github.com/laiba-mazhar/AI-Based-Handwriting-Analysis-and-Author-Identification-WebApp)
+
+<img src="https://img.shields.io/github/languages/top/laiba-mazhar/AI-Based-Handwriting-Analysis-and-Author-Identification-WebApp?style=flat-square&labelColor=0D1117&color=00D9FF"/>
+<img src="https://img.shields.io/github/stars/laiba-mazhar/AI-Based-Handwriting-Analysis-and-Author-Identification-WebApp?style=flat-square&logo=github&labelColor=0D1117&color=F0B429"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=0D1117"/>
+
+OCR + ML + NLP Flask app for author identification, sentiment and emotion analysis, grammar checking and plagiarism detection, served over REST APIs.
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>🗂️ &nbsp;More projects — click to expand</b></summary>
@@ -169,7 +221,7 @@ class LaibaMazhar:
 
 </details>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/line.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:00D9FF,100:F0B429&height=4"/>
 
 <!-- ══════════════════ EXPERIENCE ══════════════════ -->
 
@@ -188,7 +240,7 @@ timeline
          : Graduating — BS Data Science
 ```
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/line.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:00D9FF,100:F0B429&height=4"/>
 
 <!-- ══════════════════ STATS ══════════════════ -->
 
@@ -196,8 +248,9 @@ timeline
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=laiba-mazhar&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=0D1117&title_color=00D9FF&icon_color=F0B429&text_color=C9D1D9&border_color=1F6FEB&rank_icon=github"/>
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiba-mazhar&layout=compact&langs_count=10&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=1F6FEB"/>
+<img src="https://img.shields.io/github/followers/laiba-mazhar?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0D1117&color=00D9FF"/>
+<img src="https://img.shields.io/badge/PUBLIC%20REPOS-15-F0B429?style=for-the-badge&logo=github&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%C2%B7%20ML%20%C2%B7%20DATA-1F6FEB?style=for-the-badge&labelColor=0D1117"/>
 
 <br/><br/>
 
@@ -207,17 +260,13 @@ timeline
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=laiba-mazhar&bg_color=0D1117&color=00D9FF&line=F0B429&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=false&border_color=1F6FEB&custom_title=Contribution%20Activity"/>
 
-<br/><br/>
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=laiba-mazhar&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
-
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/line.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:00D9FF,100:F0B429&height=4"/>
 
 <!-- ══════════════════ SNAKE ══════════════════
-     Re-enable this block once .github/workflows/snake.yml has run at
-     least once and pushed snake.svg / snake-dark.svg to the `output` branch.
+     Re-enable this block once .github/workflows/snake.yml has run at least
+     once and pushed snake.svg / snake-dark.svg to the `output` branch.
 
 <div align="center">
 
@@ -231,13 +280,13 @@ timeline
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/line.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:00D9FF,100:F0B429&height=4"/>
 
 ══════════════════════════════════════════════════ -->
 
 <!-- ══════════════════ ACHIEVEMENTS ══════════════════ -->
 
-## <img src="https://media.giphy.com/media/Ll2fZP2XjOU2NEXvyQ/giphy.gif" width="34"/> &nbsp;Achievements
+## <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="34"/> &nbsp;Achievements
 
 <div align="center">
 
@@ -248,7 +297,7 @@ timeline
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/line.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:00D9FF,100:F0B429&height=4"/>
 
 <!-- ══════════════════ FOOTER ══════════════════ -->
 
