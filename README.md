@@ -244,6 +244,7 @@ OCR + ML + NLP Flask app for author identification, sentiment and emotion analys
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="34"/> &nbsp;Experience
 
 ```mermaid
+%%{init: {"theme":"base","themeVariables":{"background":"transparent","primaryColor":"#161B22","primaryTextColor":"#E6EDF3","primaryBorderColor":"#1F6FEB","lineColor":"#00D9FF","textColor":"#C9D1D9","fontSize":"14px","cScale0":"#1F6FEB","cScaleLabel0":"#FFFFFF","cScale1":"#00D9FF","cScaleLabel1":"#0D1117","cScale2":"#F0B429","cScaleLabel2":"#0D1117","cScale3":"#8957E5","cScaleLabel3":"#FFFFFF","cScale4":"#3FB950","cScaleLabel4":"#0D1117"}}}%%
 timeline
     title Journey so far
     2022 : BS Data Science @ FAST-NUCES, Islamabad
