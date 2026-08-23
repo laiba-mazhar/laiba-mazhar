@@ -13,6 +13,7 @@
 <!-- ── Social / contact ── -->
 <a href="https://linkedin.com/in/laiba-mazhar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:laibamazhar.000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://laiba-mazhar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/laiba-mazhar?tab=repositories"><img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 <img src="https://img.shields.io/badge/Lahore,%20PK-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=0D1117" alt="Location"/>
 <img src="https://komarev.com/ghpvc/?username=laiba-mazhar&style=for-the-badge&color=F0B429&label=PROFILE+VIEWS" alt="views"/>
@@ -69,6 +70,7 @@ class LaibaMazhar:
 - 🏆 &nbsp;**Winner** — Big Data Quest Hackathon, DataFest / NaSCon
 - 🎓 &nbsp;Stanford University *Machine Learning* (Coursera, Andrew Ng)
 - 🗣️ &nbsp;English (fluent) · Urdu (native) · German & Arabic (basic)
+- 🌐 &nbsp;Full portfolio at **[laiba-mazhar.vercel.app](https://laiba-mazhar.vercel.app/)**
 - 📫 &nbsp;Reach me at **laibamazhar.000@gmail.com**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:00D9FF,100:F0B429&height=4"/>
@@ -245,17 +247,17 @@ OCR + ML + NLP Flask app for author identification, sentiment and emotion analys
 timeline
     title Journey so far
     2022 : BS Data Science @ FAST-NUCES, Islamabad
-    2023 : Head of Investigations — Baitulnoor
+    2023 : Data & AI Engineer — Freelance / Fiverr, international clients (Jun 2023 → Jun 2025)
+         : Head of Investigations — Baitulnoor
          : Donation Officer — Rah-e-Haq (NGO)
-    2024 : Freelance AI / ML & Data Engineer — international clients
-    2025 : Data Automation Engineer Intern — Tashi Technologies Corp
+    2025 : Data Automation Engineering Intern — Tashi Technologies Corp (Jul → Oct 2025)
+         : Database Manager — Al Muttaqeen Institute (Nov 2025 → May 2026)
          : Research — federated learning, XAI, LLM agents
-    2026 : Senior Machine Learning Automation Engineer — AIPixal, Lahore (on-site, full-time, from Aug 2026)
-         : Data Developer & Analyst — CloudWorks, Texas USA (remote, part-time)
-         : Database Manager — Al Muttaqeen Institute
+    2026 : Data Developer & Analyst — CloudWorks, Texas USA (Jun 2026 →, remote, part-time)
+         : Senior Machine Learning Automation Engineer — AIPixal, Lahore (Aug 2026 →, on-site, full-time)
          : Founder & Artist — Rangrayze (Sufi calligraphy & canvas art, @rangrayze)
          : Founder — airRTH (community climate initiative)
-         : Graduating — BS Data Science
+         : Graduated — BS Data Science
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:00D9FF,100:F0B429&height=4"/>
