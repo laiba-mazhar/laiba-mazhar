@@ -5,7 +5,7 @@
 
 <!-- ── Typing animation ── -->
 <a href="https://linkedin.com/in/laiba-mazhar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=00D9FF&center=true&vCenter=true&random=false&width=780&height=70&lines=Senior+Machine+Learning+Automation+Engineer+%40+AIPixal;Data+Developer+%26+Analyst+%40+CloudWorks+(remote%2C+part-time);Building+LLM+agents%2C+RAG+pipelines+%26+ML+systems;Researching+federated+learning+%26+adversarial+ML;Spark+%C2%B7+Kafka+%C2%B7+Airflow+%C2%B7+Databricks+%C2%B7+PyTorch;BS+Data+Science+%40+FAST-NUCES+%E2%80%A2+Class+of+2026" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=00D9FF&center=true&vCenter=true&random=false&width=780&height=70&lines=Senior+Machine+Learning+Automation+Engineer+%40+AiPixal;Data+Developer+%26+Analyst+%40+CloudWorks+(remote%2C+part-time);Building+LLM+agents%2C+RAG+pipelines+%26+ML+systems;Researching+federated+learning+%26+adversarial+ML;Spark+%C2%B7+Kafka+%C2%B7+Airflow+%C2%B7+Databricks+%C2%B7+PyTorch;BS+Data+Science+%40+FAST-NUCES+%E2%80%A2+Class+of+2026" alt="typing"/>
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CURRENTLY-Senior%20ML%20Automation%20Engineer%20%40%20AIPixal-F0B429?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/CURRENTLY-Senior%20ML%20Automation%20Engineer%20%40%20AiPixal-F0B429?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Lahore,%20PK-On--site%20%C2%B7%20Full--time-1F6FEB?style=for-the-badge&labelColor=0D1117"/>
 
 <img src="https://img.shields.io/badge/ALSO-Data%20Developer%20%26%20Analyst%20%40%20CloudWorks-00D9FF?style=for-the-badge&labelColor=0D1117"/>
@@ -36,7 +36,7 @@
 
 ```python
 class LaibaMazhar:
-    role      = "Senior ML Automation Engineer @ AIPixal (Lahore, PK · on-site)"
+    role      = "Senior ML Automation Engineer @ AiPixal (Lahore, PK · on-site)"
     also_at   = "Data Developer & Analyst @ CloudWorks (Texas, USA · remote, part-time)"
     also      = "AI / ML Engineer · Data Scientist · Researcher"
     education = "BS Data Science, FAST-NUCES ('22 → '26)"
@@ -57,10 +57,10 @@ class LaibaMazhar:
     }
 
     def currently(self) -> str:
-        return "Building ML automation at AIPixal & data products at CloudWorks 🚀"
+        return "Building ML automation at AiPixal & data products at CloudWorks 🚀"
 ```
 
-- 💼 &nbsp;**Currently** **Senior Machine Learning Automation Engineer** at **AIPixal** (Lahore, Pakistan — on-site, full-time) since August 2026
+- 💼 &nbsp;**Currently** **Senior Machine Learning Automation Engineer** at **AiPixal** (Lahore, Pakistan — on-site, full-time) since August 2026
 - 🌐 &nbsp;**Also** part-time **Data Developer & Analyst** at **CloudWorks** (Texas, USA — remote), building data pipelines, models and analytics
 - 🔬 &nbsp;**Researching** adversarial robustness in federated learning, explainable IDS, and hallucination mitigation in multi-agent LLM systems
 - 🤖 &nbsp;**Building** production RAG pipelines, autonomous agents, and end-to-end ML services
@@ -254,7 +254,7 @@ timeline
          : Database Manager — Al Muttaqeen Institute (Nov 2025 → May 2026)
          : Research — federated learning, XAI, LLM agents
     2026 : Data Developer & Analyst — CloudWorks, Texas USA (Jun 2026 →, remote, part-time)
-         : Senior Machine Learning Automation Engineer — AIPixal, Lahore (Aug 2026 →, on-site, full-time)
+         : Senior Machine Learning Automation Engineer — AiPixal, Lahore (Aug 2026 →, on-site, full-time)
          : Founder & Artist — Rangrayze (Sufi calligraphy & canvas art, @rangrayze)
          : Founder — airRTH (community climate initiative)
          : Graduated — BS Data Science
